@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-local-transcribe-audio"
+description = "Enables the local_transcribe_audio command without any pre-configured scope."
+commands.allow = ["local_transcribe_audio"]
+
+[[permission]]
+identifier = "deny-local-transcribe-audio"
+description = "Denies the local_transcribe_audio command without any pre-configured scope."
+commands.deny = ["local_transcribe_audio"]

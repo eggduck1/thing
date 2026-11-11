@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>NSCameraUsageDescription</key>
+  <string>Mira uses the camera for snapshots or during a local session you explicitly start.</string>
+  <key>NSMicrophoneUsageDescription</key>
+  <string>Mira uses the microphone for local voice input only after you explicitly start it.</string>
+</dict>
+</plist>

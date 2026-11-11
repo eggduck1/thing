@@ -1,0 +1,22 @@
+{
+  "$schema": "../gen/schemas/desktop-schema.json",
+  "identifier": "default",
+  "description": "Default permissions for Mira",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "dialog:allow-open",
+    "allow-local-ai-status",
+    "allow-install-local-ai",
+    "allow-local-ai-chat",
+    "allow-local-transcribe-audio",
+    "allow-local-speak",
+    "allow-load-mira-profile",
+    "allow-save-mira-profile",
+    "allow-list-project-files",
+    "allow-read-project-files",
+    "allow-stage-project-changes",
+    "allow-discard-project-changes",
+    "allow-apply-project-changes"
+  ]
+}

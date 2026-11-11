@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-stage-project-changes"
+description = "Enables the stage_project_changes command without any pre-configured scope."
+commands.allow = ["stage_project_changes"]
+
+[[permission]]
+identifier = "deny-stage-project-changes"
+description = "Denies the stage_project_changes command without any pre-configured scope."
+commands.deny = ["stage_project_changes"]

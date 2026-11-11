@@ -1,0 +1,11 @@
+# Automatically generated - DO NOT EDIT!
+
+[[permission]]
+identifier = "allow-discard-project-changes"
+description = "Enables the discard_project_changes command without any pre-configured scope."
+commands.allow = ["discard_project_changes"]
+
+[[permission]]
+identifier = "deny-discard-project-changes"
+description = "Denies the discard_project_changes command without any pre-configured scope."
+commands.deny = ["discard_project_changes"]
